@@ -18,7 +18,7 @@ There are also geojson files in each folder.
 
 ## India Parliamentary Constituencies 2014
 
-Available here: (https://gist.github.com/mukhtyar/9958903)[https://gist.github.com/mukhtyar/9958903]
+Available here: [https://gist.github.com/mukhtyar/9958903](https://gist.github.com/mukhtyar/9958903)
  
 ## Mumbai Ward level Maps
 
@@ -29,16 +29,16 @@ Mumbai ward level maps have been provided by my friend S. The geojson file is al
 
 ### GeoJSON
 
-- Visualizing geojson files: (http://geojson.io/)[http://geojson.io/]
-- Understanding the geojson format: (http://maptimesea.github.io/2014/12/03/git-geojson.html)[http://maptimesea.github.io/2014/12/03/git-geojson.html]
-- Other resources (https://github.com/tmcw/awesome-geojson#data) [https://github.com/tmcw/awesome-geojson#data]
+- Visualizing geojson files: [http://geojson.io/](http://geojson.io/)
+- Understanding the geojson format: [http://maptimesea.github.io/2014/12/03/git-geojson.html](http://maptimesea.github.io/2014/12/03/git-geojson.html)
+- Other resources  [https://github.com/tmcw/awesome-geojson#data](https://github.com/tmcw/awesome-geojson#data)
 
 ### Shape files 
 
-- Visualizing shape files and converting to Topojson or Geojson: (http://www.mapshaper.org/)[http://www.mapshaper.org/]
+- Visualizing shape files and converting to Topojson or Geojson: [http://www.mapshaper.org/](http://www.mapshaper.org/)
 
 ### Tutorials
 
-- Let's make a map by Mike Bostock (https://bost.ocks.org/mike/map/)[https://bost.ocks.org/mike/map/]
+- Let's make a map by Mike Bostock [https://bost.ocks.org/mike/map/](https://bost.ocks.org/mike/map/)
 
 
